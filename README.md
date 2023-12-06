@@ -12,3 +12,8 @@ some machine learning algorithm programmed recently
 [【机器学习实验四】基于Logistic Regression二分类算法实现手部姿态识别_手部特征识别](https://blog.csdn.net/SESESssss/article/details/121483596?spm=1001.2014.3001.5502)
 
 [【机器学习实验五】基于多分类线性SVM实现简易人机猜拳游戏](https://blog.csdn.net/SESESssss/article/details/122282376?spm=1001.2014.3001.5502)
+
+[【机器学习算法】奇异值分解(SVD)](https://blog.csdn.net/SESESssss/article/details/131757616?spm=1001.2014.3001.5502)
+
+[【机器学习算法】主成分分析(PCA)](https://blog.csdn.net/SESESssss/article/details/131757724?spm=1001.2014.3001.5502)
+
